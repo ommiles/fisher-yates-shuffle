@@ -23,11 +23,37 @@ A JavaScript implementation of the Fisher-Yates Shuffle algorithm.
 
 ## Installation
 
-Use HTTPS(below), SSH, or GitHub CLI to clone.
+1. Use HTTPS(below), SSH, or GitHub CLI to clone this repo.
 
 ```
 $ git clone https://github.com/ommiles/fisher-yates-shuffle.git
 $ cd ../path/to/the/file
+```
+
+2. Use a text editor extension like Live Server or install [http-server](https://www.npmjs.com/package/http-server) to set up a server (below).
+
+*Install http-server globally via npm:*
+
+```
+$ npm install --global http-server
+```
+
+*Install http-server globally via Homebrew:*
+
+```
+$ brew install http-server
+```
+
+*Install http-server running on demand:*
+
+```
+$ npx http-server
+```
+
+3. Start the server:
+
+```
+$ http-server
 ```
 
 ## Credits
