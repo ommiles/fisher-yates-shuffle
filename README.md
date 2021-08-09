@@ -8,7 +8,7 @@ A JavaScript implementation of the Fisher-Yates Shuffle algorithm.
 1. [Requirements](#requirements)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
-4. [Collaboration](#collaboration)
+4. [Credits](#credits)
 5. [FAQs](#faqs)
 
 ## Requirements:
@@ -23,17 +23,17 @@ A JavaScript implementation of the Fisher-Yates Shuffle algorithm.
 
 ## Installation
 
+Use HTTPS(below), SSH, or GitHub CLI to clone.
+
 ```
-$ git clone https://example.com
+$ git clone https://github.com/ommiles/fisher-yates-shuffle.git
 $ cd ../path/to/the/file
-$ npm install
-$ npm start
 ```
 
-## Credits:
+## Credits
 
-Design inspired by this fun [CodePen](https://codepen.io/chingy/pen/BajQeVE):
+Design inspired by this fun [CodePen](https://codepen.io/chingy/pen/BajQeVE).
 
-<br>
+## FAQs
 
 > If you'd like to reach out with feedback, please [let me know](https://ommiles.com/)!
